@@ -5,7 +5,7 @@ Assignment
 
 Imagine you are working in a newspaper and the design team sends you the prototype of the new website. Your first task is to create the Homepage from this image:
 
-
+See newspaper.jpg
 
 In the previous prototype you can easily identify these areas:
 
